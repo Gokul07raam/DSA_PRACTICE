@@ -11,6 +11,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0877-stone-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +79,12 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0877-stone-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
