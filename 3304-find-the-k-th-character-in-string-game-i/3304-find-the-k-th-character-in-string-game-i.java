@@ -1,21 +1,19 @@
 class Solution {
     public char kthCharacter(int k) {
-        String curr="a";
-    
-        while(curr.length()<k){
-             String temp="";
-            for(int idx=0;idx<curr.length();idx++){
-                char ch=curr.charAt(idx);
-                if(ch>'z'){
-                    ch='a';
-                }
-                ch=(char)(ch+1);
-                temp=temp+ch;
-              
-
-            }
-              curr=curr+temp;
+        k--;
+        int pow=1;
+        while(pow<=k){
+            pow=pow*2;
         }
-        return curr.charAt(k-1);
-    }
+        pow=pow/2;
+        int jump=0;
+        while(k>0){
+            if(k-pow>=0){
+                k=k-pow;
+                jump++;
+            }
+            pow=pow/2;
+        }
+        return (char)('a'+jump);
+            }
 }
