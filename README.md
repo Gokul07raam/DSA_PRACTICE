@@ -56,6 +56,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0877-stone-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
+| [1922-count-good-numbers](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Minimax
 |  |
@@ -95,6 +96,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 ## Recursion
 |  |
 | ------- |
+| [1922-count-good-numbers](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
