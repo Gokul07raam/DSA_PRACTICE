@@ -9,6 +9,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0042-trapping-rain-water](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0877-stone-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -91,6 +92,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -99,6 +101,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
@@ -117,6 +120,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
@@ -146,4 +150,8 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
