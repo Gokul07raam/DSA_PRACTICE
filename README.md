@@ -15,6 +15,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [1510-stone-game-iv](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1922-count-good-numbers) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Minimax
@@ -99,6 +102,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
