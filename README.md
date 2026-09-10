@@ -13,6 +13,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -69,6 +70,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0877-stone-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1922-count-good-numbers) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
@@ -105,6 +107,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
+| [1512-number-of-good-pairs](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
@@ -136,6 +139,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0383-ransom-note](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
+| [1512-number-of-good-pairs](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
