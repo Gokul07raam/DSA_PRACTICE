@@ -15,6 +15,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -44,6 +45,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0042-trapping-rain-water](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -68,6 +70,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0383-ransom-note](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
