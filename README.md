@@ -11,6 +11,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -59,6 +60,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
@@ -100,6 +102,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
+| [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
@@ -129,6 +132,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
