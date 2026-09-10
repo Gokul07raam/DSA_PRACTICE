@@ -64,6 +64,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0383-ransom-note](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
@@ -129,11 +130,13 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 ## Recursion
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
