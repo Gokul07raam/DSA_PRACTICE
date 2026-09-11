@@ -53,6 +53,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
+| [0925-long-pressed-name](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0925-long-pressed-name) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
+| [0925-long-pressed-name](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0925-long-pressed-name) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
