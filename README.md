@@ -30,6 +30,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0724-find-pivot-index](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Minimax
 |  |
 | ------- |
