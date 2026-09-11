@@ -15,6 +15,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
@@ -49,6 +50,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0088-merge-sorted-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -73,6 +75,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0242-valid-anagram](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0383-ransom-note) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
@@ -136,6 +139,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0088-merge-sorted-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
