@@ -14,6 +14,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
@@ -72,6 +73,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -218,4 +220,8 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
