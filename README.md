@@ -18,6 +18,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
@@ -210,6 +211,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
