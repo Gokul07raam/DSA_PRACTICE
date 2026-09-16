@@ -60,6 +60,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0567-permutation-in-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0925-long-pressed-name](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0925-long-pressed-name) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -92,6 +93,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0383-ransom-note](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0567-permutation-in-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
@@ -144,6 +146,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
@@ -220,6 +223,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
