@@ -23,6 +23,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0724-find-pivot-index](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -228,6 +229,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0033-search-in-rotated-sorted-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
 |  |
@@ -241,4 +243,8 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
