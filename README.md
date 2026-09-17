@@ -235,6 +235,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0033-search-in-rotated-sorted-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
@@ -255,4 +256,8 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
