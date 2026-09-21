@@ -21,6 +21,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
@@ -76,6 +77,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0661-image-smoother) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
