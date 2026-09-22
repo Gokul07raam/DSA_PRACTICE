@@ -55,6 +55,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0075-sort-colors) |
@@ -262,4 +263,8 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
