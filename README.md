@@ -61,6 +61,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0075-sort-colors](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
@@ -72,6 +73,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -270,5 +273,6 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
