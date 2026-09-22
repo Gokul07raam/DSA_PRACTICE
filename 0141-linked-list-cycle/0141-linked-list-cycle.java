@@ -15,9 +15,7 @@ public class Solution {
         while(ptr2 != null && ptr2.next != null){
             ptr1=ptr1.next;
             ptr2=ptr2.next.next;
-            if(ptr1 == null || ptr2 == null){
-                return false;
-            }
+         
             if(ptr1 == ptr2){
                 return true;
             }
