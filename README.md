@@ -179,6 +179,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -268,5 +269,6 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
