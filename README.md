@@ -65,6 +65,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
+| [0876-middle-of-the-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0925-long-pressed-name) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -267,4 +268,5 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
