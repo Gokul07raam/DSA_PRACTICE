@@ -25,6 +25,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0661-image-smoother](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -80,6 +81,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
