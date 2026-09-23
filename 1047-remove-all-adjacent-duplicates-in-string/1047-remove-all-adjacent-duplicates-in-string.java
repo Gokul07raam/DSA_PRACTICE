@@ -1,6 +1,6 @@
 class Solution {
     public String removeDuplicates(String s) {
-        String ans=new String();
+        StringBuilder ans=new StringBuilder();
         Stack<Character> stack = new Stack<>();
         for(char c:s.toCharArray()){
             if(!stack.isEmpty() && stack.peek() ==  c){
@@ -11,8 +11,8 @@ class Solution {
             }
     }
     for(char c:stack){
-        ans+=c;
+        ans.append(c);
     }
-    return ans;
+    return ans.toString();
 }
 }
