@@ -82,6 +82,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0234-palindrome-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0925-long-pressed-name](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0925-long-pressed-name) |
+| [1021-remove-outermost-parentheses](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -295,4 +297,8 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
