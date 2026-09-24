@@ -26,6 +26,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0682-baseball-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -82,12 +83,14 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0234-palindrome-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
