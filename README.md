@@ -34,6 +34,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0875-koko-eating-bananas](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1046-last-stone-weight) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1512-number-of-good-pairs](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -332,6 +333,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
