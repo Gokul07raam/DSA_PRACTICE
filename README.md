@@ -36,6 +36,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1512-number-of-good-pairs](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
@@ -87,6 +88,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0739-daily-temperatures](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0682-baseball-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
@@ -312,4 +315,5 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0649-dota2-senate) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
