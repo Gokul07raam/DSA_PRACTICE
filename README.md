@@ -55,6 +55,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0649-dota2-senate](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0649-dota2-senate) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0424-longest-repeating-character-replacement](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0821-shortest-distance-to-a-character) |
@@ -306,4 +308,8 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1021-remove-outermost-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
