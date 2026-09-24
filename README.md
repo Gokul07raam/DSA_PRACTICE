@@ -285,6 +285,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0933-number-of-recent-calls) |
 ## Ternary Search
 |  |
 | ------- |
@@ -315,5 +316,10 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
