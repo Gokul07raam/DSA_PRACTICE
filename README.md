@@ -83,6 +83,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0682-baseball-game) |
@@ -338,4 +339,16 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
