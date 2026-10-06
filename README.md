@@ -362,4 +362,8 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0100-same-tree](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0101-symmetric-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
