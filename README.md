@@ -16,6 +16,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0303-range-sum-query-immutable) |
@@ -101,6 +102,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 | [0661-image-smoother](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0661-image-smoother) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
@@ -353,6 +355,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0094-binary-tree-inorder-traversal](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -364,9 +367,14 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0100-same-tree](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
