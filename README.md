@@ -26,6 +26,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0643-maximum-average-subarray-i](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0739-daily-temperatures) |
@@ -104,6 +105,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0200-number-of-islands](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 | [0661-image-smoother](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -356,6 +358,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0100-same-tree](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -368,6 +371,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0100-same-tree](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -377,4 +381,5 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
