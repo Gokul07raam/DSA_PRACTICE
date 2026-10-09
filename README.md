@@ -10,6 +10,7 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | [0033-search-in-rotated-sorted-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -382,4 +383,12 @@ Daily DSA and problem-solving practice solutions from multiple coding platforms 
 | ------- |
 | [0200-number-of-islands](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0695-max-area-of-island) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Gokul07raam/DSA_PRACTICE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
